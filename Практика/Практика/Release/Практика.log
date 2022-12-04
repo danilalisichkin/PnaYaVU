@@ -1,0 +1,11 @@
+﻿  Практика.cpp
+C:\Users\danil\source\repos\Практика\Практика\Практика.cpp(209,39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\danil\source\repos\Практика\Практика\Практика.cpp(210,39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\danil\source\repos\Практика\Практика\Практика.cpp(491,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\danil\source\repos\Практика\Практика\Практика.cpp(492,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  2 of 67 functions ( 3.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Практика.vcxproj -> C:\Users\danil\source\repos\Практика\Release\Практика.exe
