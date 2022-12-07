@@ -129,16 +129,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="consoleGraphic.cpp" />
+    <ClCompile Include="function.cpp" />
     <ClCompile Include="GUI.cpp" />
     <ClCompile Include="immovables.cpp" />
     <ClCompile Include="kursa4.cpp" />
+    <ClCompile Include="User.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="consoleGraphic.h" />
-    <ClInclude Include="functions.h" />
+    <ClInclude Include="function.h" />
     <ClInclude Include="GUI.h" />
     <ClInclude Include="Header.h" />
     <ClInclude Include="immovables.h" />
+    <ClInclude Include="User.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

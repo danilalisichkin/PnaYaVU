@@ -4,58 +4,34 @@
 #include <windows.h>
 #include <vector>
 #include <fstream>
+
 #include "consoleGraphic.h"
 #include "GUI.h"
 #include "immovables.h"
 using namespace std;
 
 int main()
-{
-	detached_house h2("Minsk", 60000, 78, 4, { "TV, WI-FI, Boiler, Dishwasher, Central heating, Toilet, Bathroom" }, 1, 300);
-	detached_house h1("Brest", 35000, 50, 2, { "Tv", "Dish washer", "Wi-fi" }, 1, 250);
-	villa v("Costa Rica", 180000, 150, 6, { "Tv", "Bar", "Garden", "Wi-fi" }, 1, 1, 40);
-	bungalo b("Taiti", 120000, 60, 4, { "Wash", "WI-FI", "TV", "Outdoor kitchen" }, 200);
-	detached_house h3("Lida", 30000, 60, 2, { "Central heating", "TV", "WI-FI", "Barbeq" }, 1, 350);
+{	
+	//villa v("Marocco", 400000, 230, 10, { "Garage", "Bowling", "Cinema", "Garden", "Wi-fi", "TVs", "Near sea" }, 2, 400, 2, 50);
+	//villa vil("Marocco", 200000, 350, 8, { "Garage", "Cinema", "Barbeq", "Wi-fi", "TVs", "On hills" }, 2, 500, 2, 50);
+	//bungalo b("Maldives", 100000, 50, 3, { "Bathroom", "Toilet", "WI-FI", "TV", "Outdoor kitchen" }, 150);
+	//detached_house h3("Homel", 20000, 85, 4, { "TV", "WI-FI", "Barbeq", "Close to river" }, 2, 200);
+	//villa v2("Barcelona", 300000, 250, 10, { "Garage", "Cinema", "Garden", "Wi-fi", "TVs", "PS5", "Near sea" }, 2, 500, 1, 40);
+	//detached_house h2("Minsk", 40000, 60, 3, { "TV", "CCTV", "Wi-fi", "Dish washer" }, 1, 200);
 
-	ofstream f;
-	f.open(FILE_NAME, ios::app);
-	h2.save_to_file(f);
-	h1.save_to_file(f);
-	v.save_to_file(f);
-	b.save_to_file(f);
-	h3.save_to_file(f);
-	f.close();
+	//ofstream f;
+	//f.open(FILE_NAME, ios::app);
+	//v.save_to_file(f);
+	//b.save_to_file(f);
+	//h3.save_to_file(f);
+	//v2.save_to_file(f);
+	//h2.save_to_file(f);
+	//vil.save_to_file(f);
+	//f.close();
 
-	ifstream f2;
-	f2.open(FILE_NAME, ios::in);
-	string buffer;
-	while (!f2.eof())
-	{
-		getline(f2, buffer);
-		if (buffer == "Detached house") {
-			detached_house h;
-			h.load_from_file(f2);
-			immovable_window2<detached_house> w(h);
-			w.logic();
-		}
-		else if (buffer == "Bungalo") {
-			bungalo h;
-			h.load_from_file(f2);
-			immovable_window2<bungalo> w(h);
-			w.logic();
-		}
-		else if (buffer == "Villa") {
-			villa h;
-			h.load_from_file(f2);
-			immovable_window2<villa> w(h);
-			w.logic();
-		}
-	}
-	f2.close();
-	getchar();
-}
+	immovable_list l;
+	l.logic();
 
-void funct()
-{
-
+	//main_menu m;
+	//m.logic();
 }

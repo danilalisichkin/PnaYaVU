@@ -1,0 +1,93 @@
+0
+Villa
+Marocco
+400000
+10
+2
+2
+230
+400
+50
+Garage
+Bowling
+Cinema
+Garden
+Wi-fi
+TVs
+Near sea
+=====
+2
+Bungalo
+Maldives
+100000
+3
+1
+50
+150
+Bathroom
+Toilet
+WI-FI
+TV
+Outdoor kitchen
+=====
+3
+Detached house
+Homel
+20000
+4
+2
+85
+200
+TV
+WI-FI
+Barbeq
+Close to river
+=====
+4
+Villa
+Barcelona
+300000
+10
+2
+1
+250
+500
+40
+Garage
+Cinema
+Garden
+Wi-fi
+TVs
+PS5
+Near sea
+=====
+5
+Detached house
+Minsk
+40000
+3
+1
+60
+200
+TV
+CCTV
+Wi-fi
+Dish washer
+=====
+1
+Villa
+Marocco
+200000
+8
+2
+2
+350
+500
+50
+Garage
+Cinema
+Barbeq
+Wi-fi
+TVs
+On hills
+=====

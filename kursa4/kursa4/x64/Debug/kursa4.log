@@ -1,4 +1,4 @@
-﻿  GUI.cpp
+﻿  kursa4.cpp
 C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0xb0, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
 C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0xb3, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
 C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0xb7, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
@@ -42,65 +42,25 @@ C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: 
 C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x17c, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
 C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x180, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
 C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x183, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\GUI.cpp(86,52): warning C4244: =: преобразование "WORD" в "char", возможна потеря данных
-C:\Users\danil\source\repos\kursa4\kursa4\GUI.cpp(167,52): warning C4244: =: преобразование "WORD" в "char", возможна потеря данных
-C:\Users\danil\source\repos\kursa4\kursa4\GUI.cpp(282,52): warning C4244: =: преобразование "WORD" в "char", возможна потеря данных
-  immovables.cpp
-  kursa4.cpp
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0xb0, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0xb3, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0xb7, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0xba, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0xbd, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0xc1, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0xe9, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0xec, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0xef, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0xf2, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0xf6, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0xfa, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0xfd, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x100, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x101, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x104, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x106, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x109, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x10c, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x10f, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x113, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x116, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x119, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x11d, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x120, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x123, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x124, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x128, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x12b, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x12f, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x133, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x136, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x139, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x13c, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x140, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x16c, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x16e, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x171, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x176, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x179, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x17c, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x180, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\consoleGraphic.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x183, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
-C:\Users\danil\source\repos\kursa4\kursa4\GUI.h(158,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\danil\source\repos\kursa4\kursa4\GUI.h(154,1): message : во время компиляции функции-члена класс шаблон "immovable_window2<detached_house>::immovable_window2(T &)"
+C:\Users\danil\source\repos\kursa4\kursa4\immovables.h(44,10): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\danil\source\repos\kursa4\kursa4\immovables.h(77,23): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\danil\source\repos\kursa4\kursa4\immovables.h(468,23): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\danil\source\repos\kursa4\kursa4\immovables.h(515,23): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\danil\source\repos\kursa4\kursa4\GUI.h(189,29): warning C4584: more_info<T>: базовый класс "menu" уже является базовым классом для "immovable_window2<T>"
+C:\Users\danil\source\repos\kursa4\kursa4\GUI.h(16,7): message : см. объявление "menu"
+C:\Users\danil\source\repos\kursa4\kursa4\GUI.h(197,2): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "more_info<T>"
+C:\Users\danil\source\repos\kursa4\kursa4\GUI.h(254,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\danil\source\repos\kursa4\kursa4\GUI.h(274,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\danil\source\repos\kursa4\kursa4\GUI.h(162,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\danil\source\repos\kursa4\kursa4\GUI.h(158,1): message : во время компиляции функции-члена класс шаблон "immovable_window2<detached_house>::immovable_window2(T &)"
           with
           [
               T=detached_house
           ]
-C:\Users\danil\source\repos\kursa4\kursa4\kursa4.cpp(38,38): message : выполняется компиляция ссылки на экземпляр шаблон функции "immovable_window2<detached_house>::immovable_window2(T &)"
+C:\Users\danil\source\repos\kursa4\kursa4\GUI.h(290,55): message : выполняется компиляция ссылки на экземпляр шаблон функции "immovable_window2<detached_house>::immovable_window2(T &)"
           with
           [
               T=detached_house
           ]
-C:\Users\danil\source\repos\kursa4\kursa4\kursa4.cpp(38,41): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "immovable_window2<detached_house>"
-  Создание кода...
+C:\Users\danil\source\repos\kursa4\kursa4\GUI.h(290,1): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "immovable_window2<detached_house>"
   kursa4.vcxproj -> C:\Users\danil\source\repos\kursa4\x64\Debug\kursa4.exe

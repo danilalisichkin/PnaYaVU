@@ -32,18 +32,18 @@ void print_border(unsigned int window_widht, int mode)
 void print_menu_el(const char menuEl[], unsigned int window_widht, int mode)
 {
     int i;
-    int length = strlen(menuEl) - 1;
+    int length = strlen(menuEl)-1;
     cout << char(186);
 
     if (mode == 1) {
         i = (window_widht - length) / 2;
         cout << setfill(' ') << setw(i) << ' ';
         cout << menuEl;
-        cout << setfill(' ') << setw(window_widht - i - length - 1) << char(186) << endl;
+        cout << setfill(' ') << setw(window_widht - i - length) << char(186) << endl;
     }
     else if (mode == 0) {
         cout << menuEl;
-        cout << setfill(' ') << setw(window_widht - length - 1) << char(186) << endl; //!!!
+        cout << setfill(' ') << setw(window_widht - length) << char(186) << endl;
     }
     else return;
 }
